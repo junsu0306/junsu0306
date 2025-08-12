@@ -13,7 +13,7 @@
 ## 💼 Projects
 
 ### ⚙️ Optimizing DeDLOC: Efficient Distributed Training in Low-VRAM Environments
-**Research Developer (Distributed AI)** | **Mar. 2025 – June. 2025**  
+**Team Lead (Distributed AI)** | **Mar. 2025 – June. 2025**  
 - Collaborating in a 3-member team to improve DeDLOC (Decentralized Deep Learning on Collaborators) for low-memory GPU environments.  
 - Implemented a distributed training system that reduces VRAM and system memory usage while maintaining training efficiency.  
 - Integrated adaptive algorithms for staleness control and optimized communication latency to mitigate compute bottlenecks.  
